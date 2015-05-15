@@ -36,7 +36,9 @@ See Intro Session 1 materials for email template
 ### Intro
 
 - Welcome + go over schedule
+
     * Group discussion: 6 months from now can you or someone else go back to your project and understand what was going on? What types of methods do you use to document a project?
+    * List the two most important tools that you use to document your research
     * Take notes on the board as to tools people use.
 
 - Pick a case study or two from https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014/wiki/Irreproducible-Examples
